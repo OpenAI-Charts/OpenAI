@@ -4,6 +4,8 @@ ChartsGPT is an AI-powered market analysis system developed in collaboration wit
 
 The system processes crypto and global market data to generate structured, probability-based trading insights for investors and traders.
 
+Development of ChartsGPT began in June 2024, followed by an extended research and beta testing phase. As of March 1, 2026, the platform has entered Early Access, allowing users to access the system ahead of the public release after the completion of its initial beta testing program.
+
 <h2>What It Does</h2>
 
 <table>
