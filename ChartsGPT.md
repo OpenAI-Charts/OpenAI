@@ -72,12 +72,12 @@ Macro, technical, and on-chain signals analyzed in real time.
 <table>
 <tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/openai/000000" width="120"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="120"><br>
 <b>OpenAI</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/tradingview/000000" width="120"><br>
+<img src="https://cdn.simpleicons.org/tradingview" width="120"><br>
 <b>TradingView</b>
 </td>
 </tr>
