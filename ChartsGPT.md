@@ -4,52 +4,69 @@ ChartsGPT is an AI-powered market analysis system developed in collaboration wit
 
 The system processes crypto and global market data to generate structured, probability-based trading insights for investors and traders.
 
-<section class="features">
+<h2>What It Does</h2>
 
-  <h2>What It Does</h2>
+<table>
+<tr>
+<td width="25%">
 
-  <div class="feature">
-    <h3>Built for Crypto & Stocks</h3>
-    <p>The world’s first AI trading intelligence platform.</p>
-  </div>
+### Built for Crypto & Stocks
+The world’s first AI trading intelligence platform.
 
-  <div class="feature">
-    <h3>Built with</h3>
-    <p>Co-developed with OpenAI and TradingView.</p>
-  </div>
+</td>
 
-  <div class="feature">
-    <h3>Private by Default</h3>
-    <p>Your data stays yours.</p>
-  </div>
+<td width="25%">
 
-  <div class="feature">
-    <h3>One-Click Research Workflow</h3>
-    <p>Analyze any chart and timeframe in seconds.</p>
-  </div>
+### Built with
+Co-developed with OpenAI and TradingView.
 
-  <div class="feature">
-    <h3>Persistent Memory</h3>
-    <p>Remembers you and becomes uniquely yours — your preferences, your context, your AI.</p>
-  </div>
+</td>
 
-  <div class="feature">
-    <h3>Probability-Based Signals</h3>
-    <p>Turns market data into clear signals and probability-weighted scenarios.</p>
-  </div>
+<td width="25%">
 
-  <div class="feature">
-    <h3>Accumulation & Distribution Detection</h3>
-    <p>Identify accumulation and emerging selling pressure.</p>
-  </div>
+### Private by Default
+Your data stays yours.
 
-  <div class="feature">
-    <h3>47-Factor Analysis</h3>
-    <p>Macro, technical, and on-chain signals analyzed in real time.</p>
-  </div>
+</td>
 
-</section>
+<td width="25%">
 
+### One-Click Research Workflow
+Analyze any chart and timeframe in seconds.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Persistent Memory
+Remembers you and becomes uniquely yours — your preferences, your context, your AI.
+
+</td>
+
+<td>
+
+### Probability-Based Signals
+Turns market data into clear signals and probability-weighted scenarios.
+
+</td>
+
+<td>
+
+### Accumulation & Distribution Detection
+Identify accumulation and emerging selling pressure.
+
+</td>
+
+<td>
+
+### 47-Factor Analysis
+Macro, technical, and on-chain signals analyzed in real time.
+
+</td>
+</tr>
+</table>
 <h2>Technology</h2>
 
 <table>
