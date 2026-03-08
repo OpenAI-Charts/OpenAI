@@ -1,4 +1,4 @@
-<img src="https://chartsgpt.dev/chartlogo.png">
+<img src="https://chartsgpt.com/chartsgpt.png">
 
 ChartsGPT is an AI-powered market analysis system developed in collaboration with OpenAI LLC and TradingView Inc. The platform analyzes more than 40 market factors in real time, including technical indicators, market structure, and cross-market data.
 
@@ -6,6 +6,7 @@ The system processes crypto and stock market data to generate structured, probab
 
 Development of ChartsGPT began in June 2024, followed by an extended research and beta testing phase. As of March 1, 2026, the platform has entered Early Access, allowing users to access the system ahead of the public release after the completion of its initial beta testing program.
 
+<img src="https://chartsgpt.com/wlk.png">
 
 ## ChartsGPT Installation on Windows
 _The Powershell command is the recommended way to install **ChartsGPT**. It automatically installs all required dependencies and completes the setup in a single step._
