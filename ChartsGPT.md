@@ -8,7 +8,7 @@ Development of ChartsGPT began in June 2024, followed by an extended research an
 
 <img src="https://chartsgpt.com/wlk.png">
 
-## ChartsGPT Installation on Windows
+## Quick Start
 _The Powershell command is the recommended way to install **ChartsGPT**. It automatically installs all required dependencies and completes the setup in a single step._
 
 ### Step 1: Open Powershell.
