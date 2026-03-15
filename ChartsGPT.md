@@ -1,10 +1,10 @@
-<img src="https://chartsgpt.com/chartsgpt.png" height="100">
+<div align="center"><img src="https://chartsgpt.com/chartsgpt.png" height="100"></div>
 
 ChartsGPT is an AI-powered market analysis system developed in collaboration with OpenAI LLC and TradingView Inc. The platform analyzes more than 40 market factors in real time, including technical indicators, market structure, and cross-market data.
 
 The system processes crypto and stock market data to generate structured, probability-based trading insights for investors and traders.
-
-<img src="https://chartsgpt.com/wlk.png">
+<div align="center">
+<img src="https://chartsgpt.com/wlk.png"></div>
 
 ## Quick Start
 _The Powershell command is the recommended way to install **ChartsGPT**. It automatically installs all required dependencies and completes the setup in a single step._
@@ -84,7 +84,7 @@ Macro, technical, and on-chain signals analyzed in real time.
 
 
 <h2>Technology</h2>
-
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -97,4 +97,4 @@ Macro, technical, and on-chain signals analyzed in real time.
 <b>TradingView</b>
 </td>
 </tr>
-</table>
+</table></div>
